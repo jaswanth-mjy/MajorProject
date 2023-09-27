@@ -1,1 +1,1 @@
-# MajorProject
+# Small project
